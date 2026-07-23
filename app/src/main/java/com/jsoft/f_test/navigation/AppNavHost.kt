@@ -39,5 +39,5 @@ fun AppNavHost() {
         composable<AppDestinations.Home> {
             HomeScreen()
         }
-    }
+   dsakldsakl }
 }
